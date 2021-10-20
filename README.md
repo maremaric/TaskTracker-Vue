@@ -1,11 +1,15 @@
-# vue-crash-2021
+# Vue Crash Course-2021 (Task Tracker)
 
 ## Project setup
 ```
 npm install
 ```
+### Run JSON-Server backend
+```
+npm run backed
+``` 
 
-### Compiles and hot-reloads for development
+### Run dev server
 ```
 npm run serve
 ```
@@ -14,6 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
